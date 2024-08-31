@@ -1,4 +1,3 @@
-Here's a `README.md` file for your GenAI project "Cold Email Writer For Companies":
 
 ---
 
@@ -6,6 +5,11 @@ Here's a `README.md` file for your GenAI project "Cold Email Writer For Companie
 
 
 Welcome to **Cold Email Writer For Companies**! This AI-powered application is designed to help businesses streamline the process of crafting professional cold emails. With the power of Generative AI and the LangChain library, this tool generates well-structured and persuasive emails tailored to specific needs, reducing the time and effort required to connect with potential clients or partners. 🎯
+
+
+https://github.com/user-attachments/assets/5fb39494-fd2b-482f-86f4-8d7051907c8f
+
+
 
 ## **📑 Project Overview**
 
